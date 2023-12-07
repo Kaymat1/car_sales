@@ -1,5 +1,10 @@
 # car_sales
-This is my project at zero to pandas course where I analysed a dataset which contains 3700+ cars information and their prices in Naira. 
-The data was web scraped from cars45, Nigeria's largest car sales website. The data contains features such as car make, model, year of manufacture, mileage, price, etc.
-Downloading the Dataset
-Please visit https://www.kaggle.com/datasets/makindekayode/nigerian-car-prices-dataset to download the data.
+As part of the Zero to Pandas course, I undertook a project involving the analysis of a dataset comprising information on over 3700 cars and their prices in Naira. The dataset was obtained through web scraping from Cars45, Nigeria's largest car sales website. It includes various features such as car make, model, year of manufacture, mileage, price, and more.
+
+To access the dataset, please visit https://www.kaggle.com/datasets/makindekayode/nigerian-car-prices-dataset for downloading.
+
+
+
+
+
+
